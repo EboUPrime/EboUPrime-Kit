@@ -1,4 +1,4 @@
-package com.ebouprime.utiles;
+package com.ebouprime.logging;
 
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Formatter;

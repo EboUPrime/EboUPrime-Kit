@@ -1,4 +1,6 @@
-package com.ebouprime.utiles;
+package com.ebouprime.utiles.strings;
+
+import com.ebouprime.utiles.enums.Color;
 
 public class Text {
     /**

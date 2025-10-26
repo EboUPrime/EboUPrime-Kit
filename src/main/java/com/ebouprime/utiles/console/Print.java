@@ -1,4 +1,7 @@
-package com.ebouprime.utiles;
+package com.ebouprime.utiles.console;
+
+import com.ebouprime.logging.AppLogger;
+import com.ebouprime.utiles.enums.Color;
 
 public class Print {
 

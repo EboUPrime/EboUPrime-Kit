@@ -1,4 +1,4 @@
-package com.ebouprime.utiles;
+package com.ebouprime.utiles.enums;
 
 public enum Color {
     RESET("\u001B[0m"), // to reset color
