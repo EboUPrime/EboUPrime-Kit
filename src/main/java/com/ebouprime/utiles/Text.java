@@ -69,25 +69,4 @@ public class Text {
         return Color.BLUE.getCode() + str + Color.RESET.getCode();
     }
 
-    // --- deprecated old names kept as wrappers for backward compatibility ---
-
-    @Deprecated
-    public static String toRed(String str) {
-        return redText(str);
-    }
-
-    @Deprecated
-    public static String toGreen(String str) {
-        return greenText(str);
-    }
-
-    @Deprecated
-    public static String toYellow(String str) {
-        return yellowText(str);
-    }
-
-    @Deprecated
-    public static String toBlue(String str) {
-        return blueText(str);
-    }
 }
